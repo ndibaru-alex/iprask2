@@ -155,11 +155,11 @@
                                 </div>
                             </div>
                             <div class="services-one__content">
-                                <h3 class="services-one__title"><a href="business-growth.html">Business Growth</a></h3>
+                                <h3 class="services-one__title"><a href="service-details.php">Business Growth</a></h3>
                                 <p class="services-one__text">Lorem ipsum dolor sit donec amet tristique ante vel sem dictum is rhoncus elit sed.</p>
                                 <div class="services-one__bottom">
-                                    <a href="business-growth.html" class="services-one__btn">Read More</a>
-                                    <a href="business-growth.html" class="services-one__arrow"><span class="icon-right-arrow"></span></a>
+                                    <a href="service-details.php" class="services-one__btn">Read More</a>
+                                    <a href="service-details.php" class="services-one__arrow"><span class="icon-right-arrow"></span></a>
                                 </div>
                             </div>
                         </div>
