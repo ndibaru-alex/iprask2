@@ -47,7 +47,7 @@
                         </li>
 
                         <li>
-                            <a href="services.php">IP</a>
+                            <a href="ip.php">IP</a>
                         </li>
 
                         <li><a href="about.php">About</a></li>
@@ -58,7 +58,7 @@
                         </li>
 
                         <!-- should have normal membership / student membership -->
-                        <li><a href="#">Membership</a></li>
+                        <li><a href="membership.php">Membership</a></li>
 
                         <li><a href="contact.php">Contact</a></li>
 

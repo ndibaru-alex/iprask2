@@ -11,16 +11,14 @@
     <link rel="apple-touch-icon" sizes="180x180" href="assets/img-v1/favicon/android-chrome-192x192.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/img-v1/favicon/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img-v1/favicon/favicon-16x16.png" />
-    
+
     <meta name="description" content="The society seeks to protect, advance and safeguard the rights and interests of its members by enhancing their capacity to detect infringements, file complaints, create awareness and generally fight counterfeiting on behalf of their appointing authorities" />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
@@ -81,73 +79,88 @@
         <section class="get-to-know">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-5">
+                    <div class="col-xl-7">
                         <div class="get-to-know__left">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">get to know us</span>
                                 <h2 class="section-title__title">Work Together for a Business Success</h2>
                             </div>
-                            <p class="get-to-know__text">Lorem ipsum dolor sit amet, consectetur nod adipisicing elit
-                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua lonm andhn.</p>
-                            <ul class="list-unstyled get-to-know__points">
-                                <li>
-                                    <div class="icon">
-                                        <i class="fa fa-check"></i>
-                                    </div>
-                                    <div class="text">
-                                        <p>Nsectetur cing elit.</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <i class="fa fa-check"></i>
-                                    </div>
-                                    <div class="text">
-                                        <p>Suspe ndisse suscipit sagittis leo.</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <i class="fa fa-check"></i>
-                                    </div>
-                                    <div class="text">
-                                        <p>Entum estibulum dignissim posuere.</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <i class="fa fa-check"></i>
-                                    </div>
-                                    <div class="text">
-                                        <p>Donec tristique ante vel sem dictum rhoncus.</p>
-                                    </div>
-                                </li>
-                            </ul>
+                            <p class="get-to-know__text">Intellectual Property Rights Agents Society of Kenya (IPRASK) is a duly registered professional body under the societies act CAP 108 Laws of Kenya (Cert. No. R. 52261). The society seeks to protect, advance and safeguard the rights and interests of its members by enhancing their capacity to detect infringements, file complaints, create awareness and generally fight counterfeiting on behalf of their appointing authorities (IP Right Owners). </p>
+                            <p>We draw our membership from active IP professionals, registered patent or trademark attorney, law enforcement officers whose primary function relate to intellectual property rights and students undertaking relevant courses in Kenya.</p>
+
                         </div>
                     </div>
-                    <div class="col-xl-7">
+                    <div class="col-xl-5">
                         <div class="get-to-know__right">
-                            <ul class="get-to-know__images list-unstyled">
-                                <li>
-                                    <div class="get-to-know__img-1">
-                                        <img src="assets/images/resources/get-to-know-img-1.jpg" alt="">
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="get-to-know__img-2">
-                                        <img src="assets/images/resources/get-to-know-img-2.jpg" alt="">
-                                    </div>
-                                </li>
-                            </ul>
+                            <div class="get-to-know__img-1">
+                                <img class="img-fluid" src="assets/images/services/copyrighting-awarenss.jpg" alt="">
+                            </div>
+                            <div class="get-to-know__img-2">
+                                <img class="img-fluid" src="assets/images/services/file-complaints.jpg" alt="">
+                            </div>
+
                         </div>
                     </div>
+                </div>
+                <div class="about-one__business-start my-2">
+                    <div class="about-one__business-start-icon">
+                        <span class="icon-verification"></span>
+                    </div>
+                    <p class="about-one__business-start-text">Our Core Purpose</p>
+                </div>
+                <p>To support IP professionals, foster creativity, and promote an effective and balanced intellectual property system. </p>
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="icon">
+                            <i class="fa fa-check"></i>
+                        </div>
+                        <div class="text">
+                            <p>Mission</p>
+                        </div>
+                        <p>IPRASK supports IP professionals and advances an effective and balanced intellectual property system through advocacy, education, training, and community outreach.</p>
+                    </div>
+                    <h2 class="my-2 text-center">VALUES</h2>
+                    <div class="col-xl-4">
+                        <!-- <div class="icon">
+                            <i class="fa fa-check"></i>
+                        </div> -->
+                        <div class="text">
+                            <p><B>Pursuit of Excellence </B></p>
+                        </div>
+
+                        <p>- A dedication to the improvement of the intellectual property system by being a thought leader for intellectual property, providing advanced professional development, and serving as a strong collective voice to champion innovation and creativity.
+
+                        </p>
+                    </div>
+
+                    <div class="col-xl-4">
+                        <!-- <div class="icon">
+                            <i class="fa fa-check"></i>
+                        </div> -->
+                        <div class="text">
+                            <p><B>Commitment </B></p>
+                        </div>
+                        <p>An enduring belief in the essential importance of an intellectual property system that promotes innovation and creativity through our community of engaged IP professionals.</p>
+                    </div>
+
+                    <div class="col-xl-4">
+                        <!-- <div class="icon">
+                            <i class="fa fa-check"></i>
+                        </div> -->
+                        <div class="text">
+                            <p><B>Collaboration </B></p>
+                        </div>
+                        <p>A strong, diverse, and supportive community of diverse IP professionals working together as a collective champion for innovative and creative solutions to issues facing the IP system and its stakeholders.</p>
+                    </div>
+
+
                 </div>
             </div>
         </section>
         <!--Get To Know End-->
 
         <!--Brand One Start-->
-        <section class="brand-one">
+        <section class="brand-one ">
             <div class="container">
                 <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
                     "0": {
@@ -177,35 +190,30 @@
                 }}'>
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                            <img src="assets/images/team/african-script.png" alt="">
+                        </div>
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                            <img src="assets/images/team/de-olus.png" alt="">
+                        </div>
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                            <img src="assets/images/team/hadasa-fashion.png" alt="">
+                        </div>
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                            <img src="assets/images/team/g2035.png" alt="">
+                        </div>
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                            <img src="assets/images/team/african-script.png" alt="">
+                        </div>
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                            <img src="assets/images/team/de-olus.png" alt="">
+                        </div>
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                            <img src="assets/images/team/hadasa-fashion.png" alt="">
+                        </div>
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                            <img src="assets/images/team/g2035.png" alt="">
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -213,9 +221,8 @@
         <!--Brand One End-->
 
         <!--Testimonial One Start-->
-        <section class="testimonial-one">
-            <div class="testimonial-one-map"
-                style="background-image: url(assets/images/shapes/testimonial-one-map.png)"></div>
+        <!-- <section class="testimonial-one">
+            <div class="testimonial-one-map" style="background-image: url(assets/images/shapes/testimonial-one-map.png)"></div>
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">our feedback list</span>
@@ -224,7 +231,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="testimonial-one__carousel owl-theme owl-carousel">
-                            <!--Testimonial One Single-->
+                           
                             <div class="testimonial-one__single">
                                 <p class="testimonial-one__rating">
                                     <i class="fa fa-star"></i>
@@ -248,7 +255,7 @@
                                     <img src="assets/images/icon/quote-icon.png" alt="">
                                 </div>
                             </div>
-                            <!--Testimonial One Single-->
+                           
                             <div class="testimonial-one__single">
                                 <p class="testimonial-one__rating">
                                     <i class="fa fa-star"></i>
@@ -272,7 +279,7 @@
                                     <img src="assets/images/icon/quote-icon.png" alt="">
                                 </div>
                             </div>
-                            <!--Testimonial One Single-->
+                           
                             <div class="testimonial-one__single">
                                 <p class="testimonial-one__rating">
                                     <i class="fa fa-star"></i>
@@ -300,14 +307,13 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--Testimonial One End-->
 
         <!--Counter One Start-->
         <section class="counter-one">
             <div class="counter-one-wrap">
-                <div class="counter-one-shape"
-                    style="background-image: url(assets/images/shapes/counter-one-shape.png)"></div>
+                <div class="counter-one-shape" style="background-image: url(assets/images/shapes/counter-one-shape.png)"></div>
                 <div class="counter-one-img"><img src="assets/images/resources/counter-one-img.jpg" alt=""></div>
                 <div class="counter-one-shape-2"><img src="assets/images/shapes/counter-one-shape-2.png" alt=""></div>
                 <div class="counter-one-shape-3"><img src="assets/images/shapes/counter-one-shape-3.png" alt=""></div>
@@ -364,14 +370,14 @@
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">Professional Consultant</span>
-                    <h2 class="section-title__title">Meet Our Experts</h2>
+                    <h2 class="section-title__title">Meet Our Team</h2>
                 </div>
-                <div class="row">
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                <div class="row text-center">
+                    <div class="col-xl-3 col-lg-3 wow fadeInUp" data-wow-delay="100ms">
                         <!--Team Two Single-->
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/team/team-two-img-1.jpg" alt="">
+                                <img src="assets/images/team/Fredrick Saramba- Chairman.jpeg" alt="">
                                 <ul class="list-unstyled team-one__social">
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-facebook"></i></a></li>
@@ -379,16 +385,16 @@
                                 </ul>
                             </div>
                             <div class="team-one__content">
-                                <h4 class="team-one__name">Sarah Albert</h4>
-                                <p class="team-one__title">Consultant</p>
+                                <h4 class="team-one__name">Fredrick Saramba</h4>
+                                <p class="team-one__title"> Chairman</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                    <div class="col-xl-3 col-lg-3 wow fadeInUp" data-wow-delay="200ms">
                         <!--Team Two Single-->
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/team/team-two-img-2.jpg" alt="">
+                                <img src="assets/images/team/Japheth Koome-Vice-Chairman.jpeg" alt="">
                                 <ul class="list-unstyled team-one__social">
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-facebook"></i></a></li>
@@ -396,16 +402,16 @@
                                 </ul>
                             </div>
                             <div class="team-one__content">
-                                <h4 class="team-one__name">Mike Hardson</h4>
-                                <p class="team-one__title">Manager</p>
+                                <h4 class="team-one__name">Japheth Koome</h4>
+                                <p class="team-one__title"> Vice-Chairman</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="col-xl-3 col-lg-3 wow fadeInUp" data-wow-delay="300ms">
                         <!--Team Two Single-->
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/team/team-two-img-3.jpg" alt="">
+                                <img src="assets/images/team/nelson-odaya.jpeg" alt="">
                                 <ul class="list-unstyled team-one__social">
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-facebook"></i></a></li>
@@ -413,8 +419,25 @@
                                 </ul>
                             </div>
                             <div class="team-one__content">
-                                <h4 class="team-one__name">Jessica Brown</h4>
-                                <p class="team-one__title">CO - Founder</p>
+                                <h4 class="team-one__name">Nelson Odaya</h4>
+                                <p class="team-one__title"> Secretary General</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 wow fadeInUp" data-wow-delay="300ms">
+                        <!--Team Two Single-->
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/team/George-Arum-Secretary-general.jpeg" alt="">
+                                <ul class="list-unstyled team-one__social">
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-one__content">
+                                <h4 class="team-one__name">George Arum</h4>
+                                <p class="team-one__title"> Finance</p>
                             </div>
                         </div>
                     </div>
@@ -431,8 +454,7 @@
                         <div class="cta-one__inner">
                             <h2 class="cta-one__title">We’re Delivering the Best <br> Consulting & Finance Services</h2>
                             <a href="about.php" class="thm-btn cta-one__btn">free consultation</a>
-                            <div class="cta-one__shape wow slideInLeft" data-wow-delay="100ms"
-                                data-wow-duration="2500ms">
+                            <div class="cta-one__shape wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                                 <img src="assets/images/shapes/cta-one-shape.png" alt="">
                             </div>
                         </div>
@@ -457,8 +479,8 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.php" aria-label="logo image"><img src="<a href="index.php"><img src="assets/img-v1/iprask-logo.svg" alt=""></a>" width="155"
-                        alt="" /></a>
+                <a href="index.php" aria-label="logo image"><img src="<a href=" index.php"><img src="assets/img-v1/iprask-logo.svg" alt=""></a>" width="155"
+                alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>

@@ -3230,7 +3230,7 @@ ul {
 .counter-one {
   position: relative;
   display: block;
-  margin-top: -281px;
+  margin-top: -81px;
   z-index: 1;
 }
 
@@ -3696,12 +3696,12 @@ ul {
 .brand-one .swiper-slide img {
   -webkit-transition: 500ms;
   transition: 500ms;
-  opacity: 0.2;
+  opacity: 1;
   max-width: 100%;
 }
 
 .brand-one .swiper-slide img:hover {
-  opacity: 0.6;
+  opacity: 1;
 }
 
 /*--------------------------------------------------------------
@@ -7526,6 +7526,12 @@ ul {
   position: relative;
   display: block;
   margin-left: 70px;
+  
+}
+
+.get-to-know__right img{
+  margin: 30px 20px 20px 20px;
+  border-radius: 15px;
 }
 
 .get-to-know__images {
