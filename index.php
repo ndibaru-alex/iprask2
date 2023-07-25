@@ -43,6 +43,7 @@
     <link rel="stylesheet" href="assets/vendors/timepicker/timePicker.css" />
 
     <!-- template styles -->
+
     <link rel="stylesheet" href="assets/css/conult.css" />
     <link rel="stylesheet" href="assets/css/conult-responsive.css" />
 </head>
@@ -55,7 +56,12 @@
     <div class="page-wrapper">
 
 
-        <?php require_once('includes/header.php') ?>
+        <?php
+
+        require_once('includes/header.php');
+        require_once('includes/modals.php');
+
+        ?>
 
         <div class="stricky-header stricked-menu main-menu">
             <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
@@ -79,7 +85,7 @@
     }}'>
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/sliders/slider-a.jpg);">
+                        <div class="image-layer" style="background-image: url(assets/images/sliders/iprask-meeting.jpeg);">
                         </div>
                         <!-- /.image-layer -->
                         <div class="main-slider-shape-1"><img src="assets/images/shapes/main-slider-shape-1.png" alt="">
@@ -92,53 +98,9 @@
                             <div class="row">
                                 <div class="col-xl-7">
                                     <div class="main-slider__content">
-                                        <h2>Consulting for <br> Every Business</h2>
-                                        <p>The Best Business Consulting Firm you can Count on</p>
-                                        <a href="about.php" class="thm-btn">free consultation</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/sliders/slider-2.jpg);">
-                        </div>
-                        <!-- /.image-layer -->
-                        <div class="main-slider-shape-1"><img src="assets/images/shapes/main-slider-shape-1.png" alt="">
-                        </div>
-                        <div class="main-slider-shape-2"><img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                        </div>
-                        <div class="main-slider-shape-3"><img src="assets/images/shapes/main-slider-shape-3.png" alt="">
-                        </div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-xl-7">
-                                    <div class="main-slider__content">
-                                        <h2>Consulting for <br> Every Business</h2>
-                                        <p>The Best Business Consulting Firm you can Count on</p>
-                                        <a href="about.php" class="thm-btn">free consultation</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/sliders/file-compaints.jpg);">
-                        </div>
-                        <!-- /.image-layer -->
-                        <div class="main-slider-shape-1"><img src="assets/images/shapes/main-slider-shape-1.png" alt="">
-                        </div>
-                        <div class="main-slider-shape-2"><img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                        </div>
-                        <div class="main-slider-shape-3"><img src="assets/images/shapes/main-slider-shape-3.png" alt="">
-                        </div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-xl-7">
-                                    <div class="main-slider__content">
-                                        <h2>Consulting for <br> Every Business</h2>
-                                        <p>The Best Business Consulting Firm you can Count on</p>
-                                        <a href="about.php" class="thm-btn">free consultation</a>
+                                        <h2>Intellectual Property Rights Agents Society of Kenya</h2>
+                                        <p>Seeks to protect, advance and safeguard the rights and interests of its members by enhancing their capacity to detect infringements, file complaints, create awareness and generally fight counterfeiting on behalf of their appointing authorities (IP Right Owners). </p>
+                                        <a href="about.php" class="thm-btn">Contact Us</a>
                                     </div>
                                 </div>
                             </div>
@@ -158,9 +120,53 @@
                             <div class="row">
                                 <div class="col-xl-7">
                                     <div class="main-slider__content">
-                                        <h2>Consulting for <br> Every Business</h2>
-                                        <p>The Best Business Consulting Firm you can Count on</p>
-                                        <a href="about.php" class="thm-btn">free consultation</a>
+                                        <h2>Create Awareness </h2>
+                                        <p>In today's rapidly evolving digital landscape, intellectual property (IP) has become more valuable than ever before. It encompasses a wide range of intangible assets, such as inventions, designs, trademarks, trade secrets, and creative works.</p>
+                                        <a href="about.php" class="thm-btn">Contact Us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="image-layer" style="background-image: url(assets/images/sliders/infrigment.jpg);">
+                        </div>
+                        <!-- /.image-layer -->
+                        <div class="main-slider-shape-1"><img src="assets/images/shapes/main-slider-shape-1.png" alt="">
+                        </div>
+                        <div class="main-slider-shape-2"><img src="assets/images/shapes/main-slider-shape-2.png" alt="">
+                        </div>
+                        <div class="main-slider-shape-3"><img src="assets/images/shapes/main-slider-shape-3.png" alt="">
+                        </div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xl-7">
+                                    <div class="main-slider__content">
+                                        <h2>Detect Infringements</h2>
+                                        <p> With the rise of the internet and digital technologies, detecting and combating IP infringements have become increasingly challenging. However, by leveraging modern tools, strategies, and collaborations, rights holders can proactively identify and address infringements.</p>
+                                        <a href="about.php" class="thm-btn">Contact Us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="image-layer" style="background-image: url(assets/images/sliders/awarenes.jpg);">
+                        </div>
+                        <!-- /.image-layer -->
+                        <div class="main-slider-shape-1"><img src="assets/images/shapes/main-slider-shape-1.png" alt="">
+                        </div>
+                        <div class="main-slider-shape-2"><img src="assets/images/shapes/main-slider-shape-2.png" alt="">
+                        </div>
+                        <div class="main-slider-shape-3"><img src="assets/images/shapes/main-slider-shape-3.png" alt="">
+                        </div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xl-7">
+                                    <div class="main-slider__content">
+                                        <h2>File Complaints</h2>
+                                        <p>As a creator, inventor, or business owner, safeguarding your intellectual property (IP) is paramount to preserving the value of your hard work and innovation. We at IPRASK will help you out</p>
+                                        <a href="about.php" class="thm-btn">Contact Us</a>
                                     </div>
                                 </div>
                             </div>
@@ -189,27 +195,24 @@
                         <div class="feature-one__single">
                             <div class="feature-one__img-box">
                                 <div class="feature-one__img">
-                                    <img src="assets/images/resources/feature-one-img-1.jpg" alt="">
+                                    <img src="assets/images/sliders/member-d.jpeg" alt="">
                                 </div>
                                 <div class="feature-one__icon-box">
                                     <div class="feature-one__icon-title-box">
-                                        <h3 class="feature-one__icon-title"><a href="consumer-product.html">Wealth <br>
-                                                Management</a></h3>
+                                        <h3 class="feature-one__icon-title"><a href="consumer-product.html">Create Awareness on IP </a></h3>
                                     </div>
                                     <div class="feature-one__icon">
                                         <span class="icon-strategy"></span>
                                     </div>
                                 </div>
                                 <div class="feature-one__hover">
-                                    <div class="feature-one__hover-bg" style="background-image: url(assets/images/resources/feature-one-hover-img-1.jpg)">
+                                    <div class="feature-one__hover-bg" style="background-image: url(assets/images/sliders/member-d.jpeg)">
                                     </div>
                                     <div class="feature-one__hover-icon">
                                         <span class="icon-strategy"></span>
                                     </div>
-                                    <h4 class="feature-one__hover-title"><a href="consumer-product.html">Wealth
-                                            Management</a></h4>
-                                    <p class="feature-one__hover-text">Lorem ipsum dolor sit am adipi sicing elit, sed
-                                        do consulting firms Et leggings.</p>
+                                    <h4 class="feature-one__hover-title"><a href="consumer-product.html">Create Awareness on IP</a></h4>
+                                    <p class="feature-one__hover-text">Intellectual property represents the fruits of human imagination, ingenuity, and hard work. It serves as the cornerstone of the knowledge-based economy, driving advancements in various fields such as science, technology, arts, and culture.</p>
                                 </div>
                             </div>
                         </div>
@@ -219,27 +222,24 @@
                         <div class="feature-one__single">
                             <div class="feature-one__img-box">
                                 <div class="feature-one__img">
-                                    <img src="assets/images/resources/feature-one-img-2.jpg" alt="">
+                                    <img src="assets/images/sliders/filec2.jpg" alt="">
                                 </div>
                                 <div class="feature-one__icon-box">
                                     <div class="feature-one__icon-title-box">
-                                        <h3 class="feature-one__icon-title"><a href="audit-marketing.html">Audit <br>
-                                                Marketing</a></h3>
+                                        <h3 class="feature-one__icon-title"><a href="audit-marketing.html">File Complaints</a></h3>
                                     </div>
                                     <div class="feature-one__icon">
                                         <span class="icon-point-of-sale"></span>
                                     </div>
                                 </div>
                                 <div class="feature-one__hover">
-                                    <div class="feature-one__hover-bg" style="background-image: url(assets/images/resources/feature-one-hover-img-1.jpg)">
+                                    <div class="feature-one__hover-bg" style="background-image: url(assets/images/sliders/filec2.jpg)">
                                     </div>
                                     <div class="feature-one__hover-icon">
                                         <span class="icon-point-of-sale"></span>
                                     </div>
-                                    <h4 class="feature-one__hover-title"><a href="audit-marketing.html">Audit
-                                            Marketing</a></h4>
-                                    <p class="feature-one__hover-text">Lorem ipsum dolor sit am adipi sicing elit, sed
-                                        do consulting firms Et leggings.</p>
+                                    <h4 class="feature-one__hover-title"><a href="audit-marketing.html">File Complaints </a></h4>
+                                    <p class="feature-one__hover-text">As a creator, inventor, or business owner, safeguarding your intellectual property (IP) is paramount to preserving the value of your hard work and innovation. When unauthorized use or infringement of your IP occurs, filing a complaint is a critical step in enforcing your rights and seeking resolution.</p>
                                 </div>
                             </div>
                         </div>
@@ -249,27 +249,25 @@
                         <div class="feature-one__single">
                             <div class="feature-one__img-box">
                                 <div class="feature-one__img">
-                                    <img src="assets/images/resources/feature-one-img-3.jpg" alt="">
+                                    <img src="assets/images/sliders/member-e.jpeg" alt="">
                                 </div>
                                 <div class="feature-one__icon-box">
                                     <div class="feature-one__icon-title-box">
-                                        <h3 class="feature-one__icon-title"><a href="financial-advice.html">Finance <br>
-                                                Consulting</a></h3>
+                                        <h3 class="feature-one__icon-title"><a href="financial-advice.html">Detect Infringements</a></h3>
                                     </div>
                                     <div class="feature-one__icon">
                                         <span class="icon-consumer-behavior"></span>
                                     </div>
                                 </div>
                                 <div class="feature-one__hover">
-                                    <div class="feature-one__hover-bg" style="background-image: url(assets/images/resources/feature-one-hover-img-1.jpg)">
+                                    <div class="feature-one__hover-bg" style="background-image: url(assets/images/sliders/member-e.jpeg)">
                                     </div>
                                     <div class="feature-one__hover-icon">
                                         <span class="icon-consumer-behavior"></span>
                                     </div>
                                     <h4 class="feature-one__hover-title"><a href="financial-advice.html">Finance
                                             Consulting</a></h4>
-                                    <p class="feature-one__hover-text">Lorem ipsum dolor sit am adipi sicing elit, sed
-                                        do consulting firms Et leggings.</p>
+                                    <p class="feature-one__hover-text">With the rise of the internet and digital technologies, detecting and combating IP infringements have become increasingly challenging. However, by leveraging modern tools, strategies, and collaborations, rights holders can proactively identify and address infringements.</p>
                                 </div>
                             </div>
                         </div>
@@ -283,17 +281,17 @@
         <section class="about-one">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-6">
+                    <div class="col-xl-5">
                         <div class="about-one__left wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                             <div class="about-one__img">
-                                <img src="assets/images/resources/about-one-img-1.png" alt="">
+                                <img src="assets/images/resources/ipsk.png" alt="">
                             </div>
                             <div class="about-one__shape">
                                 <img src="assets/images/shapes/about-one-shape.png" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6">
+                    <div class="col-xl-7">
                         <div class="about-one__right">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">Our Core Purpose, Mission & Values</span>
@@ -326,7 +324,7 @@
 
                             <div class="about-one__bottom">
                                 <div class="about-one__btn-box">
-                                    <a href="about.php" class="thm-btn about-one__btn">about more</a>
+                                    <a href="about.php" class="thm-btn about-one__btn">Learn More</a>
                                 </div>
                                 <div class="about-one__contact">
                                     <div class="about-one__contact-icon">
@@ -348,41 +346,21 @@
         <!--Our Mission Start-->
         <section class="our-mission">
             <div class="our-mission-bg-box">
-                <div class="our-mission-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/backgrounds/our-mission-bg.jpg)"></div>
+                <div class="our-mission-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/sliders/members.jpeg)"></div>
             </div>
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="our-mission__inner">
-                            <h2 class="our-mission__title">Collaboration <br> </h2>
-                            <a href="about.php" class="thm-btn our-mission__btn">Our Services</a>
+                            <h2 class="our-mission__title">Membership <br> </h2>
+                            <p class="text-white"> Any person over the age of eighteen years shall be eligible for membership of the society and shall, subject to approval of the committee and fulfilling the requisite conditions, become a member on payment of a stipulated fee .</p>
+                            <button class="thm-btn our-mission__btn" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Become a Member </button>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
         <!--Our Mission End-->
-
-
-
-        <!--CTA One Start-->
-        <section class="cta-one">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="cta-one__inner">
-                            <h2 class="cta-one__title">We’re Delivering the Best <br> Consulting & Finance Services</h2>
-                            <a href="about.php" class="thm-btn cta-one__btn">free consultation</a>
-                            <div class="cta-one__shape wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <img src="assets/images/shapes/cta-one-shape.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--CTA One End-->
-
 
         <!--Brand One Start-->
         <section class="brand-one ">
@@ -444,6 +422,27 @@
             </div>
         </section>
         <!--Brand One End-->
+
+        <!--CTA One Start-->
+        <section class="cta-one">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="cta-one__inner">
+                            <h2 class="cta-one__title">Your Shield of Creativity <br> Safeguarding Intellectual Property Rights</h2>
+                            <a href="about.php" class="thm-btn cta-one__btn">Contact Us</a>
+                            <div class="cta-one__shape wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
+                                <img src="assets/images/shapes/cta-one-shape.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--CTA One End-->
+
+
+
 
         <!--Site Footer Start-->
 
@@ -536,6 +535,8 @@
     <script src="assets/vendors/vegas/vegas.min.js"></script>
     <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
     <script src="assets/vendors/timepicker/timePicker.js"></script>
+
+
 
 
 

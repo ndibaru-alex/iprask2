@@ -61,7 +61,7 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+            <div class="page-header-bg" style="background-image: url(assets/images/sliders/members.jpeg)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
@@ -93,10 +93,10 @@
                     <div class="col-xl-5">
                         <div class="get-to-know__right">
                             <div class="get-to-know__img-1">
-                                <img class="img-fluid" src="assets/images/services/copyrighting-awarenss.jpg" alt="">
+                                <img class="img-fluid" src="assets/images/sliders/one-on-one-discussion.jpeg" alt="">
                             </div>
                             <div class="get-to-know__img-2">
-                                <img class="img-fluid" src="assets/images/services/file-complaints.jpg" alt="">
+                                <img class="img-fluid" src="assets/images/sliders/member-d.jpeg" alt="">
                             </div>
 
                         </div>
@@ -119,7 +119,7 @@
                         </div>
                         <p>IPRASK supports IP professionals and advances an effective and balanced intellectual property system through advocacy, education, training, and community outreach.</p>
                     </div>
-                    <h2 class="my-2 text-center">VALUES</h2>
+                    <h2 class="my-5 text-center">VALUES</h2>
                     <div class="col-xl-4">
                         <!-- <div class="icon">
                             <i class="fa fa-check"></i>
@@ -159,66 +159,6 @@
         </section>
         <!--Get To Know End-->
 
-        <!--Brand One Start-->
-        <section class="brand-one ">
-            <div class="container">
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
-                    "0": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 2
-                    },
-                    "375": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 2
-                    },
-                    "575": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 3
-                    },
-                    "767": {
-                        "spaceBetween": 50,
-                        "slidesPerView": 4
-                    },
-                    "991": {
-                        "spaceBetween": 50,
-                        "slidesPerView": 5
-                    },
-                    "1199": {
-                        "spaceBetween": 100,
-                        "slidesPerView": 5
-                    }
-                }}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="assets/images/team/african-script.png" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="assets/images/team/de-olus.png" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="assets/images/team/hadasa-fashion.png" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="assets/images/team/g2035.png" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="assets/images/team/african-script.png" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="assets/images/team/de-olus.png" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="assets/images/team/hadasa-fashion.png" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="assets/images/team/g2035.png" alt="">
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Brand One End-->
 
         <!--Testimonial One Start-->
         <!-- <section class="testimonial-one">
@@ -313,15 +253,15 @@
         <!--Counter One Start-->
         <section class="counter-one">
             <div class="counter-one-wrap">
-                <div class="counter-one-shape" style="background-image: url(assets/images/shapes/counter-one-shape.png)"></div>
-                <div class="counter-one-img"><img src="assets/images/resources/counter-one-img.jpg" alt=""></div>
+                <div class="counter-one-shape" style="background-image: url(assets/images/sliders/member2.jpeg)"></div>
+                <div class="counter-one-img"><img src="assets/images/sliders/counter.png" alt=""></div>
                 <div class="counter-one-shape-2"><img src="assets/images/shapes/counter-one-shape-2.png" alt=""></div>
                 <div class="counter-one-shape-3"><img src="assets/images/shapes/counter-one-shape-3.png" alt=""></div>
                 <div class="container">
                     <div class="counter-one__top">
                         <div class="row">
-                            <div class="col-xl-5 col-lg-6">
-                                <h2 class="counter-one__top-title">We’re Able to Give Truly Financial Advices</h2>
+                            <div class="col-xl-8 col-lg-8">
+                                <h2 class="counter-one__top-title">Preserving Innovation, Empowering Creators: Your Intellectual Property Rights Guardians</h2>
                             </div>
                         </div>
                     </div>
@@ -378,11 +318,11 @@
                         <div class="team-one__single">
                             <div class="team-one__img">
                                 <img src="assets/images/team/Fredrick Saramba- Chairman.jpeg" alt="">
-                                <ul class="list-unstyled team-one__social">
+                                <!-- <ul class="list-unstyled team-one__social">
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                </ul>
+                                </ul> -->
                             </div>
                             <div class="team-one__content">
                                 <h4 class="team-one__name">Fredrick Saramba</h4>
@@ -395,11 +335,11 @@
                         <div class="team-one__single">
                             <div class="team-one__img">
                                 <img src="assets/images/team/Japheth Koome-Vice-Chairman.jpeg" alt="">
-                                <ul class="list-unstyled team-one__social">
+                                <!-- <ul class="list-unstyled team-one__social">
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                </ul>
+                                </ul> -->
                             </div>
                             <div class="team-one__content">
                                 <h4 class="team-one__name">Japheth Koome</h4>
@@ -412,11 +352,11 @@
                         <div class="team-one__single">
                             <div class="team-one__img">
                                 <img src="assets/images/team/nelson-odaya.jpeg" alt="">
-                                <ul class="list-unstyled team-one__social">
+                                <!-- <ul class="list-unstyled team-one__social">
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                </ul>
+                                </ul> -->
                             </div>
                             <div class="team-one__content">
                                 <h4 class="team-one__name">Nelson Odaya</h4>
@@ -429,11 +369,11 @@
                         <div class="team-one__single">
                             <div class="team-one__img">
                                 <img src="assets/images/team/George-Arum-Secretary-general.jpeg" alt="">
-                                <ul class="list-unstyled team-one__social">
+                                <!-- <ul class="list-unstyled team-one__social">
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                </ul>
+                                </ul> -->
                             </div>
                             <div class="team-one__content">
                                 <h4 class="team-one__name">George Arum</h4>
@@ -452,8 +392,8 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="cta-one__inner">
-                            <h2 class="cta-one__title">We’re Delivering the Best <br> Consulting & Finance Services</h2>
-                            <a href="about.php" class="thm-btn cta-one__btn">free consultation</a>
+                            <h2 class="cta-one__title">Your Shield of Creativity <br> Safeguarding Intellectual Property Rights</h2>
+                            <a href="about.php" class="thm-btn cta-one__btn">Contact Us</a>
                             <div class="cta-one__shape wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                                 <img src="assets/images/shapes/cta-one-shape.png" alt="">
                             </div>
@@ -463,6 +403,66 @@
             </div>
         </section>
         <!--CTA One End-->
+        <!--Brand One Start-->
+        <section class="brand-one ">
+            <div class="container">
+                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
+                    "0": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 2
+                    },
+                    "375": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 2
+                    },
+                    "575": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 3
+                    },
+                    "767": {
+                        "spaceBetween": 50,
+                        "slidesPerView": 4
+                    },
+                    "991": {
+                        "spaceBetween": 50,
+                        "slidesPerView": 5
+                    },
+                    "1199": {
+                        "spaceBetween": 100,
+                        "slidesPerView": 5
+                    }
+                }}'>
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <img src="assets/images/team/african-script.png" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets/images/team/de-olus.png" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets/images/team/hadasa-fashion.png" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets/images/team/g2035.png" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets/images/team/african-script.png" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets/images/team/de-olus.png" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets/images/team/hadasa-fashion.png" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets/images/team/g2035.png" alt="">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Brand One End-->
 
         <!--Site Footer Start-->
         <?php require_once('includes/footer.php') ?>

@@ -11,16 +11,14 @@
     <link rel="apple-touch-icon" sizes="180x180" href="assets/img-v1/favicon/android-chrome-192x192.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/img-v1/favicon/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img-v1/favicon/favicon-16x16.png" />
-    
+
     <meta name="description" content="The society seeks to protect, advance and safeguard the rights and interests of its members by enhancing their capacity to detect infringements, file complaints, create awareness and generally fight counterfeiting on behalf of their appointing authorities" />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
@@ -62,7 +60,7 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+            <div class="page-header-bg" style="background-image: url(assets/images/sliders/meeting-iprask.jpeg)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
@@ -78,9 +76,8 @@
 
         <!--Contact Page Google Map Start-->
         <section class="contact-page-google-map">
-           <div class="container">
-                <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd" class="contact-page-google-map__one" allowfullscreen>
+            <div class="container">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd" class="contact-page-google-map__one" allowfullscreen>
 
                 </iframe>
             </div>
@@ -96,12 +93,11 @@
                             <h3 class="contact-page-details__title">Get to Know About Company</h3>
                             <div class="contact-page-details__content">
                                 <div class="contact-page-details__content-img">
-                                    <img src="assets/images/resources/contact-page-details-content-img.jpg" alt="">
+                                    <img class="img-fluid" src="assets/images/sliders/members.jpeg" alt="">
                                 </div>
                                 <div class="contact-page-details__content-text-box">
-                                    <p class="contact-page-details__content-text-1">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                                    <p class="contact-page-details__content-text-2">Many desktop publishing packages and web page editors now use as their default model text.</p>
-                                    <h2 class="contact-page-details__sign">Kevin Martin</h2>
+                                    <p class="contact-page-details__content-text-1">IPRASK supports IP professionals and advances an effective and balanced intellectual property system through advocacy, education, training, and community outreach.</p>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -125,7 +121,7 @@
                             <div class="contact-page-details__social">
                                 <a href="#"><i class="fab fa-twitter"></i></a>
                                 <a href="#"><i class="fab fa-facebook"></i></a>
-                                
+
                                 <a href="#"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
@@ -199,8 +195,8 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.php" aria-label="logo image"><img src="<a href="index.php"><img src="assets/img-v1/iprask-logo.svg" alt=""></a>" width="155"
-                        alt="" /></a>
+                <a href="index.php" aria-label="logo image"><img src="<a href=" index.php"><img src="assets/img-v1/iprask-logo.svg" alt=""></a>" width="155"
+                alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>

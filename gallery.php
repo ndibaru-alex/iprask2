@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>(IPRASK) ||Membership </title>
+    <title>Portfolio||(IPRASK) </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/img-v1/favicon/android-chrome-192x192.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/img-v1/favicon/favicon-32x32.png" />
@@ -52,11 +52,7 @@
     </div>
     <!-- /.preloader -->
     <div class="page-wrapper">
-
-        <?php
-        require_once('includes/header.php');
-        require_once('includes/modals.php');
-        ?>
+        <?php require_once('includes/header.php') ?>
 
         <div class="stricky-header stricked-menu main-menu">
             <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
@@ -64,192 +60,151 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+            <div class="page-header-bg" style="background-image: url(assets/images/sliders/meeting-iprask.jpeg)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Membership</h2>
+                    <h2>Gallery</h2>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
-                        <li class="active">Membership</li>
+                        <li class="active">Gallery</li>
                     </ul>
                 </div>
             </div>
         </section>
         <!--Page Header End-->
 
-        <!--Get To Know Start-->
-        <section class="get-to-know">
+        <!--News Page Start-->
+        <section class="news-page">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7">
-                        <div class="get-to-know__left">
-                            <div class="section-title text-left">
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                        <!--News One Single-->
+                        <div class="news-one__single">
+                            <div class="news-one__img">
+                                <img src="assets/images/sliders/iprask-meeting.jpeg" alt="">
+                                <a href="#">
+                                    <span class="news-one__plus"></span>
+                                </a>
 
-                                <h2 class="section-title__title">Eligibility:</h2>
                             </div>
-                            <ol class="counter-one__list ">
-                                <li> Any person over the age of eighteen years shall be eligible for membership of the society and shall, subject to approval of the committee and fulfilling the requisite conditions, become a member on payment of a stipulated fee </li>
+                            <div class="news-one__content">
 
-                                <li> Any registered entity that carries on the business of Intellectual Property Rights and which is registered as such in the Republic of Kenya shall be eligible for membership of the society and shall, subject to approval of the committee, become a member on payment of a stipulated fee </li>
-                            </ol>
+                                <h3 class="news-one__title">
+                                    <a href="news-details.php">(IPRASK) Board Meeting</a>
+                                </h3>
 
-                        </div>
-                    </div>
-                    <div class="col-xl-5">
-                        <div class="get-to-know__right">
-                            <div class="get-to-know__img-1">
-                                <img class="img-fluid" src="assets/images/services/interllectual-property.jpg" alt="">
+
                             </div>
-
-
                         </div>
                     </div>
-                </div>
-                <div class="about-one__business-start my-4">
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                        <!--News One Single-->
+                        <div class="news-one__single">
+                            <div class="news-one__img">
+                                <img src="assets/images/sliders/meeting-iprask.jpeg" alt="">
+                                <a href="#">
+                                    <span class="news-one__plus"></span>
+                                </a>
 
-                    <p class="about-one__business-start-text">BENEFITS OF MEMBERSHIP</p>
-                </div>
+                            </div>
+                            <div class="news-one__content">
 
-                <div class="row">
+                                <h3 class="news-one__title">
+                                    <a href="news-details.php">Team Members</a>
+                                </h3>
 
 
-                    <div class="col-xl-4">
-                        <!-- <div class="icon">
-                            <i class="fa fa-check"></i>
-                        </div> -->
-                        <div class="text">
-                            <p><B>Information</B></p>
+                            </div>
                         </div>
-
-                        <p>IPRASK acts as an information channel keeping members and the wider profession informed of industry developments of interest via its networks.
-
-                        </p>
                     </div>
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                        <!--News One Single-->
+                        <div class="news-one__single">
+                            <div class="news-one__img">
+                                <img src="assets/images/sliders/member-d.jpeg" alt="">
+                                <a href="#">
+                                    <span class="news-one__plus"></span>
+                                </a>
 
-                    <div class="col-xl-4">
-                        <!-- <div class="icon">
-                            <i class="fa fa-check"></i>
-                        </div> -->
-                        <div class="text">
-                            <p><B>Learning and Training </B></p>
+                            </div>
+                            <div class="news-one__content">
+
+                                <h3 class="news-one__title">
+                                    <a href="news-details.php">IPRASK</a>
+                                </h3>
+
+
+                            </div>
                         </div>
-                        <p>Each year some CPD events are organized, where participants get actively involved in discussions and debate, ensuring the sharing of practical experience, resulting in increased educational value.</p>
                     </div>
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                        <!--News One Single-->
+                        <div class="news-one__single">
+                            <div class="news-one__img">
+                                <img src="assets/images/sliders/file-compaints.jpg" alt="">
+                                <a href="#">
+                                    <span class="news-one__plus"></span>
+                                </a>
 
-                    <div class="col-xl-4">
-                        <!-- <div class="icon">
-                            <i class="fa fa-check"></i>
-                        </div> -->
-                        <div class="text">
-                            <p><B>Networking </B></p>
+                            </div>
+                            <div class="news-one__content">
+
+                                <h3 class="news-one__title">
+                                    <a href="news-details.php">File Handling</a>
+                                </h3>
+
+
+                            </div>
                         </div>
-                        <p>IPRASK is the perfect forum to strengthen connections with IP practitioners in Kenya. As a member of IPRASK you’re able to participate in committees, conferences and seminars and take advantage of the Society’s networking opportunities.</p>
                     </div>
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                        <!--News One Single-->
+                        <div class="news-one__single">
+                            <div class="news-one__img">
+                                <img src="assets/images/sliders/one-on-one-discussion.jpeg" alt="">
+                                <a href="#">
+                                    <span class="news-one__plus"></span>
+                                </a>
+
+                            </div>
+                            <div class="news-one__content">
+
+                                <h3 class="news-one__title">
+                                    <a href="news-details.php">IPRASK at Work</a>
+                                </h3>
 
 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                        <!--News One Single-->
+                        <div class="news-one__single">
+                            <div class="news-one__img">
+                                <img src="assets/images/sliders/members.jpeg" alt="">
+                                <a href="#">
+                                    <span class="news-one__plus"></span>
+                                </a>
+
+                            </div>
+                            <div class="news-one__content">
+
+                                <h3 class="news-one__title">
+                                    <a href="news-details.php">IPRASK Team</a>
+                                </h3>
+
+
+                            </div>
+                        </div>
+                    </div>
+                   
+                    
+                   
                 </div>
             </div>
         </section>
-        <!--Our Mission Start-->
-        <section class="our-mission">
-            <div class="our-mission-bg-box">
-                <div class="our-mission-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/sliders/members.jpeg)"></div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="our-mission__inner">
-                            <h2 class="our-mission__title">Membership <br> </h2>
-                            <p class="text-white"> Any person over the age of eighteen years shall be eligible for membership of the society and shall, subject to approval of the committee and fulfilling the requisite conditions, become a member on payment of a stipulated fee .</p>
-                            <button class="thm-btn our-mission__btn" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Become a Member </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Our Mission End-->
-
-
-        <section class="">
-            <div class="container">
-                <div class="row">
-
-
-                    <div class="col-xl-12">
-                        <div class="get-to-know__left">
-                            <div class="section-title text-left">
-
-                                <h2 class="section-title__title">STUDENT ZONE</h2>
-                            </div>
-                            <p>The Society is involved in the Student Enterprise Programme, to create awareness and encourage student entrepreneurs to reflect an awareness of Intellectual Property (IP) and the value of IP rights when setting about developing a business idea and establishing and running a successful enterprise.</p>
-                            <p>Students are encouraged to form IP Society Clubs in school to network and support student enterprise. A special annual prize, sponsored by our partners, is awarded at the National Final.</p>
-                            <p>Students will be judged on their understanding of the area of IP for business and how they considered the various IP issues in relation to their own student enterprises. For example, how a team researched the uniqueness of their brand, identified IP rights owned by others that they need to request permission for, and if and how they have looked into how to protect their own IP for their student enterprise. </p>
-
-
-                        </div>
-                        <ul class=" ">
-                            <h4>Award Categories:</h4>
-                            <li> Intellectual Property Award (Intermediate Category </li>
-
-                            <li> Intellectual Property Award (Senior Category) </li>
-                        </ul>
-                    </div>
-                </div>
-
-
-                <div class="row">
-
-
-                    <div class="col-xl-8">
-                        <!-- <div class="icon">
-                            <i class="fa fa-check"></i>
-                        </div> -->
-                        <p class="about-one__business-start-text">How to Enter:</p>
-                        <div class="text">
-                            <p><B>Information</B></p>
-                        </div>
-
-                        <p>To enter, students must include a section on Intellectual Property in their business report submitted for the National Final which must be submitted by the closing date.
-
-                        </p>
-                    </div>
-                    <div class="col-xl-4">
-                        <div class="get-to-know__right">
-                            <div class="get-to-know__img-1">
-                                <img class="img-fluid" src="assets/images/services/service-details-img-1.jpg" alt="">
-                            </div>
-
-
-                        </div>
-                    </div>
-
-
-
-                </div>
-            </div>
-        </section>
-
-
-
-        <!--CTA One Start-->
-        <section class="cta-one">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="cta-one__inner">
-                            <h2 class="cta-one__title">Your Shield of Creativity <br> Safeguarding Intellectual Property Rights</h2>
-                            <a href="about.php" class="thm-btn cta-one__btn">Contact Us</a>
-                            <div class="cta-one__shape wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <img src="assets/images/shapes/cta-one-shape.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--CTA One End-->
-
+        <!--News Page End-->
 
         <!--Site Footer Start-->
         <?php require_once('includes/footer.php') ?>
@@ -347,7 +302,6 @@
     <!-- template js -->
     <script src="assets/js/conult.js"></script>
 </body>
-
 
 
 </html>
