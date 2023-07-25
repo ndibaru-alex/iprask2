@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from layerdrops.com/conult/news-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Apr 2023 15:01:06 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,16 +12,14 @@
     <link rel="apple-touch-icon" sizes="180x180" href="assets/img-v1/favicon/android-chrome-192x192.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/img-v1/favicon/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img-v1/favicon/favicon-16x16.png" />
-    
+
     <meta name="description" content="The society seeks to protect, advance and safeguard the rights and interests of its members by enhancing their capacity to detect infringements, file complaints, create awareness and generally fight counterfeiting on behalf of their appointing authorities" />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
@@ -54,112 +53,7 @@
     </div>
     <!-- /.preloader -->
     <div class="page-wrapper">
-        <header class="main-header clearfix">
-           <div class="main-header__top clearfix">
-                <div class="main-header__top-inner clearfix">
-                    <div class="main-header__top-left">
-                        <ul class="list-unstyled main-header__top-address">
-                            <li>
-                                <div class="icon">
-                                    <span class="icon-pin"></span>
-                                </div>
-                                <div class="text">
-                                    <p>Jkuat Towers Kenyatta Avenue. Nairobi</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <span class="icon-email"></span>
-                                </div>
-                                <div class="text">
-                                    <p><a href="mailto:info@iprask.org">info@iprask.org</a></p>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="main-header__top-right">
-                        <div class="main-header__top-right-social">
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-facebook"></i></a>
-                            
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <nav class="main-menu clearfix">
-                <div class="main-menu-wrapper clearfix">
-                    <div class="main-menu-wrapper__left">
-                        <div class="main-menu-wrapper__logo">
-                            <a href="index.php"><img src="<a href="index.php"><img src="assets/img-v1/iprask-logo.svg" alt=""></a>" alt=""></a>
-                        </div>
-                        <div class="main-menu-wrapper__main-menu">
-                            <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
-                            <ul class="main-menu__list">
-                                <li class="dropdown">
-                                    <a href="index.php">Home</a>
-                                    <ul>
-                                        <li>
-                                            <a href="index.php">Home One</a>
-                                        </li>
-                                        <li><a href="index2.html">Home Two</a></li>
-                                        <li><a href="index3.html">Home Three</a></li>
-                                        <li class="dropdown">
-                                            <a href="#">Header Styles</a>
-                                            <ul>
-                                                <li><a href="index.php">Header One</a></li>
-                                                <li><a href="index2.html">Header Two</a></li>
-                                                <li><a href="index3.html">Header Three</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#">Services</a>
-                                    <ul>
-                                        <li><a href="services.php">Services</a></li>
-                                        <li><a href="consumer-product.html">Consumer Product</a></li>
-                                        <li><a href="audit-marketing.html">Audit Marketing</a></li>
-                                        <li><a href="banking-advising.html">Banking Advising</a></li>
-                                        <li><a href="service-details.php">Business Growth</a></li>
-                                        <li><a href="financial-advice.html">Financial Advice</a></li>
-                                        <li><a href="marketing-rules.html">Marketing Rules</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="about.php">About</a></li>
-                                <li class="dropdown">
-                                    <a href="#">Cases</a>
-                                    <ul>
-                                        <li><a href="cases.html">Cases</a></li>
-                                        <li><a href="case-single.html">Case Single</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown current">
-                                    <a href="#">News</a>
-                                    <ul>
-                                        <li><a href="news.php">News</a></li>
-                                        <li><a href="news-details.php">News Details</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact.php">Contact</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="main-menu-wrapper__right">
-                        
-                        <div class="main-menu-wrapper__call">
-                            <div class="main-menu-wrapper__call-icon">
-                                <span class="icon-phone"></span>
-                            </div>
-                            <div class="main-menu-wrapper__call-number">
-                                <p>Call Anytime</p>
-                                <h5><a href="tel:+254 722 327594">+254 722 327594</a></h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </nav>
-        </header>
+        <?php require_once('includes/header.php') ?>
 
         <div class="stricky-header stricked-menu main-menu">
             <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
@@ -199,9 +93,9 @@
                                     <li><a href="news-details.php"><i class="far fa-comments"></i> 2 Comments</a></li>
                                 </ul>
                                 <h3 class="news-details__title">Long Term Advice to Grow Businesses</h3>
-                                <p class="news-details__text-1">Lorem ipsum dolor sit amet, cibo mundi ea duo, vim exerci phaedrum. There are many variations of passages of Lorem Ipsum available, but the majority have alteration in some injected or  words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrang hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+                                <p class="news-details__text-1">Lorem ipsum dolor sit amet, cibo mundi ea duo, vim exerci phaedrum. There are many variations of passages of Lorem Ipsum available, but the majority have alteration in some injected or words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrang hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
                                 <p class="news-details__text-2">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type simen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
-                                <p class="news-details__text-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. orem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into  unchanged.</p>
+                                <p class="news-details__text-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. orem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into unchanged.</p>
                             </div>
                             <div class="news-details__bottom">
                                 <p class="news-details__tags">
@@ -212,7 +106,7 @@
                                 <div class="news-details__social-list">
                                     <a href="#"><i class="fab fa-twitter"></i></a>
                                     <a href="#"><i class="fab fa-facebook"></i></a>
-                                    
+
                                     <a href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
@@ -347,86 +241,8 @@
             </div>
         </section>
         <!--News Details End-->
-
         <!--Site Footer Start-->
-        <footer class="site-footer">
-            <div class="container">
-                <div class="site-footer__top">
-                    <div class="row">
-                        <div class="col-xl-5 col-lg-5 wow fadeInUp" data-wow-delay="100ms">
-                            <div class="site-footer__top-left">
-                                <div class="site-footer__top-logo-content">
-                                    <a href="index.php"><img src="assets/img-v1/iprask-logo-white.svg" width="146" alt=""></a>
-                                    <p class="site-footer__top-text">We seek to protect, advance and safeguard the rights and interests of its members.</p>
-                                </div>
-                                <div class="site-footer__top-newsletter">
-                                    <h5 class="site-footer__top-newsletter-title">Subsrcibe for Latest Articles and Resources</h5>
-                                    <form class="site-footer__top-newsletter-form">
-                                        <div class="site-footer__top-newsletter-input-box">
-                                            <input type="email" placeholder="Email Address" name="email">
-                                            <button type="submit" class="site-footer__top-newsletter-btn">Go</button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-7 col-lg-7">
-                            <div class="site-footer__top-right">
-                                <div class="site-footer__top-widget-box">
-                                    <div class="row">
-                                        <div class="col-xl-3 col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="100ms">
-                                            <div class="footer-widget__column footer-widget__explore clearfix">
-                                                <h3 class="footer-widget__title">Explore</h3>
-                                                <ul class="footer-widget__explore-list list-unstyled clearfix">
-                                                    <li><a href="about.php">About</a></li>
-                                                    <li><a href="about.php">Meet our Team</a></li>
-                                                    <li><a href="cases.html">Case Stories</a></li>
-                                                    <li><a href="news.php">Latest News</a></li>
-                                                    <li><a href="contact.php">Contact</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-3 col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="200ms">
-                                            <div class="footer-widget__column footer-widget__links clearfix">
-                                                <h3 class="footer-widget__title">Links</h3>
-                                                <ul class="footer-widget__links-list list-unstyled clearfix">
-                                                    <li><a href="about.php">About</a></li>
-                                                    <li><a href="about.php">Become a Coach</a></li>
-                                                    <li><a href="about.php">Make Appointment</a></li>
-                                                    <li><a href="contact.php">Contact</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6 col-lg-6 col-md-4 wow fadeInUp" data-wow-delay="300ms">
-                                            <div class="footer-widget__column footer-widget__contact clearfix">
-                                                <h3 class="footer-widget__title">Contact</h3>
-                                                <a href="mailto:info@iprask.org">info@iprask.org</a>
-                                                <p class="footer-widget__contact-text">80 Broklyn Road Street <br> New York. USA</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="site-footer__top-contact-details wow fadeInUp" data-wow-delay="400ms">
-                                    <div class="site-footer__top-right-social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
-                                    <div class="site-footer__top-right-phone">
-                                        <p class="site-footer__top-right-phone-tagline">Call Anytime</p>
-                                        <a href="tel:+254 722 327594">+254 722 327594</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="site-footer__bottom">
-                    <p class="site-footer__bottom-text">© 2023 Copyright. <a href="www.iprask.org">Intellectual Property Rights Agents Society Of Kenya(IPRASK)</a></p>
-                </div>
-            </div>
-        </footer>
+        <?php require_once('includes/footer.php') ?>
         <!--Site Footer End-->
 
 
@@ -440,8 +256,8 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.php" aria-label="logo image"><img src="<a href="index.php"><img src="assets/img-v1/iprask-logo.svg" alt=""></a>" width="155"
-                        alt="" /></a>
+                <a href="index.php" aria-label="logo image"><img src="<a href=" index.php"><img src="assets/img-v1/iprask-logo.svg" alt=""></a>" width="155"
+                alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -524,4 +340,5 @@
 
 
 <!-- Mirrored from layerdrops.com/conult/news-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Apr 2023 15:01:13 GMT -->
+
 </html>

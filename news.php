@@ -66,7 +66,7 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Latest News</h2>
+                    <h2>Latest from our Blog</h2>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li class="active">News</li>
