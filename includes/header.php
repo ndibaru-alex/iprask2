@@ -58,10 +58,10 @@
 
                         <li><a href="membership.php">Membership</a></li>
 
-                        <li>
+<!--                         <li>
                             <a href="gallery.php">Gallery</a>
 
-                        </li>
+                        </li> -->
                         <li>
                             <a href="news.php">Blog</a>
 
