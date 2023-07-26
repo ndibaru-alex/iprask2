@@ -72,7 +72,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="main-menu-wrapper__right">
+<!--             <div class="main-menu-wrapper__right">
 
                 <div class="main-menu-wrapper__call">
                     <div class="main-menu-wrapper__call-icon">
@@ -84,7 +84,7 @@
                         <h5><a href="tel:+254 722 327594">+254 722 327594</a></h5>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </nav>
 </header>
