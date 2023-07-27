@@ -72,19 +72,7 @@
                     </ul>
                 </div>
             </div>
-<!--             <div class="main-menu-wrapper__right">
 
-                <div class="main-menu-wrapper__call">
-                    <div class="main-menu-wrapper__call-icon">
-                        <span class="icon-phone"></span>
-                    </div>
-
-                    <div class="main-menu-wrapper__call-number">
-                        <p>Call Anytime</p>
-                        <h5><a href="tel:+254 722 327594">+254 722 327594</a></h5>
-                    </div>
-                </div>
-            </div> -->
         </div>
     </nav>
 </header>
